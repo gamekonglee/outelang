@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cc.bocang.bocang.view.NumberInputView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+
+    <ImageView
+        android:id="@+id/leftTv"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:clickable="true"
+        android:src="@mipmap/decrease_count"  />
+
+    <EditText
+        android:id="@+id/numTv"
+        android:layout_width="50dp"
+        android:layout_height="30dp"
+        android:layout_marginLeft="-2dp"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp"
+        android:gravity="center"
+        android:inputType="number"
+        android:background="@drawable/number_input_et_bg"
+        android:text="1" />
+
+    <ImageView
+        android:id="@+id/rightTv"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginLeft="-1dp"
+        android:src="@mipmap/increase_count"  />
+
+</cc.bocang.bocang.view.NumberInputView>

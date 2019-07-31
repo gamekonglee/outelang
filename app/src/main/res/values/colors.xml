@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#303030</color>
+    <color name="colorPrimary">#242424</color>
+    <color name="colorAccent">#303030</color>
+
+    <color name="whiteSmoke">#F5F5F5</color><!-- 白烟-->
+    <color name="comment_divider">#cccccc</color>
+    <color name="colorPrimaryRed">#f17719</color>
+    <color name="red">#f12b19</color>
+    <color name="txt_black">#454545</color>
+    <color name="transparent">#00000000</color>
+    <color name="background_color">#F0EFF5</color>
+    <color name="fontColor2">#222222</color>
+    <color name="fontColor6">#666666</color>
+    <color name="deep_transparent">#bb000000</color>
+</resources>

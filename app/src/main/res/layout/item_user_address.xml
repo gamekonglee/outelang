@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@+id/ll"
+              xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/white"
+              android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/logistics_name_rl"
+        style="@style/mine_item_style02"
+        android:paddingLeft="5dp"
+        android:paddingRight="10dp"
+        >
+
+        <TextView
+            android:id="@+id/consignee_title_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:text="@string/consignee"
+            android:textColor="@color/fontColor2"
+            android:textSize="14dip"/>
+
+        <TextView
+            android:id="@+id/consignee_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@id/consignee_title_tv"
+            android:text="小五"
+            android:textColor="@color/fontColor2"
+            android:textSize="14dip"/>
+
+        <TextView
+            android:id="@+id/phone_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:text="131358745454"
+            android:textColor="@color/fontColor2"
+            android:textSize="14dip"/>
+
+        <TextView
+            android:id="@+id/address_title_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/consignee_title_tv"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="3dp"
+            android:text="@string/my_address02"
+            android:textColor="@color/fontColor6"
+            android:textSize="14dip"/>
+
+        <TextView
+            android:id="@+id/address_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/consignee_title_tv"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="3dp"
+            android:layout_toRightOf="@id/address_title_tv"
+            android:text="广东省佛山市禅城区"
+            android:textColor="@color/fontColor6"
+            android:textSize="14dip"/>
+    </RelativeLayout>
+
+    <View
+        style="@style/view_style"
+        android:layout_marginTop="3dp"
+        />
+
+    <RelativeLayout
+        android:id="@+id/edit_rl"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center_vertical"
+        android:paddingLeft="5dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="5dp">
+
+        <TextView
+            android:id="@+id/default_addr_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="默认地址"
+            android:textColor="@color/colorPrimaryRed"
+            android:layout_centerVertical="true"
+            android:textSize="18sp"
+            />
+
+        <Button
+            android:id="@+id/edit_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/app_button"
+            android:text="编辑"
+            android:textColor="@color/txt_black"
+            android:textSize="15sp"
+            />
+
+        <Button
+            android:id="@+id/delete_bt"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:layout_toLeftOf="@id/edit_tv"
+            android:background="@drawable/app_button"
+            android:text="删除"
+            android:textColor="@color/txt_black"
+            android:textSize="15sp"
+            />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:background="@color/background_color"/>
+</LinearLayout>

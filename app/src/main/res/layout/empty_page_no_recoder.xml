@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/background_color"
+                android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/null_rl"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+        <ImageView
+            android:id="@+id/iv"
+            android:layout_centerInParent="true"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:src="@drawable/emptypage_norecord"/>
+        <TextView
+            android:id="@+id/tv"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="36dp"
+            android:layout_below="@id/iv"
+            android:textSize="14sp"
+            android:text="您暂时没有记录"
+            android:textColor="#AAACAD"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+    </RelativeLayout>
+
+</RelativeLayout>

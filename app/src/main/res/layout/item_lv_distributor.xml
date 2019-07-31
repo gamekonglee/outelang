@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/numTv"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:layout_weight="0.4"
+        android:gravity="center"
+        android:text="00" />
+
+    <TextView
+        android:id="@+id/nameTv"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="0.8"
+        android:gravity="center"
+        android:text="用户名" />
+
+    <TextView
+        android:id="@+id/phoneTv"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="手机" />
+
+    <TextView
+        android:id="@+id/dateTv"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="日期" />
+
+    <FrameLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="0.6">
+
+        <TextView
+            android:id="@+id/checkedTv"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="审核"
+            android:visibility="gone" />
+
+        <com.lib.common.hxp.view.EaseSwitchButton
+            android:id="@+id/switchBtn"
+            android:layout_width="40dp"
+            android:layout_height="25dp"
+            android:layout_gravity="center" />
+    </FrameLayout>
+</LinearLayout>

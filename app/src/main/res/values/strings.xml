@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">欧特朗</string>
+    <string name="consignee">收货人:</string>
+    <string name="phone_num">电话:</string>
+    <string name="address_city">所在地区:</string>
+    <string name="address_detail">详细地址:</string>
+    <string name="my_address">收货地址</string>
+    <string name="my_address02">收货地址:</string>
+    <string name="error_please_check_network">请检查网络</string>
+    <string name="error_timeout">请求超时，网络不好或者服务器不稳定</string>
+    <string name="error_not_found_server">未发现指定服务器，请切换网络后重试</string>
+    <string name="error_url_error">URL错误</string>
+    <string name="error_not_found_cache">没有找到缓存</string>
+    <string name="error_unknow">未知错误</string>
+    <string name="error_data">数据异常</string>
+    <string name="error_response_code">服务器响应码%1$d</string>
+    <string name="error_response_code_dex">服务器响应码%1$d，如果你们服务器在这种情况下也返回数据你可以处理</string>
+    <string name="UMUpdateNow">立即更新</string>
+    <string name="UMNotNow">取消</string>
+    <string name="down_waiting">正在下载安装包,请稍后</string>
+    <string name="download_cancel">下载取消</string>
+    <string name="UMLatestVersion">已是最新版本</string>
+</resources>

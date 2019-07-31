@@ -1,0 +1,67 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        applicationId "cc.bocang.bocang"
+        minSdkVersion 15
+        targetSdkVersion 23
+        versionCode 8
+        versionName "1.11"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    repositories {
+        flatDir {
+            dirs 'libs'
+        }
+    }
+}
+
+dependencies {
+    //    compile fileTree(include: ['*.jar'], dir: 'libs')
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:appcompat-v7:23.1.1'
+    compile 'com.android.support:support-v4:23.1.1 '
+    compile 'com.android.support:design:23.1.1'
+    compile 'io.reactivex:rxandroid:1.1.0'
+    compile 'io.reactivex:rxjava:1.1.0'
+    compile 'com.squareup.retrofit:retrofit:2.0.0-beta2'
+    compile 'com.squareup.retrofit:converter-gson:2.0.0-beta2'
+    compile 'com.squareup.retrofit:adapter-rxjava:2.0.0-beta2'
+    compile(name: 'libraryConvenientBanner', ext: 'aar')
+    compile 'com.alibaba:fastjson:1.2.18'
+    compile 'com.alibaba:fastjson:1.1.54.android'
+    compile(name: 'picasso-2.5.2.3', ext: 'aar')
+    compile files('libs/universal-image-loader-1.9.4.jar')
+    compile project(':common')
+    compile project(':libraryNiftyDialogEffects')
+    compile project(':filter-lib')
+    compile 'me.dm7.barcodescanner:zxing:1.9'
+    compile files('libs/eventbus-3.0.0.jar')
+    compile files('libs/MobCommons-2016.0830.1940.jar')
+    compile files('libs/MobTools-2016.0830.1940.jar')
+    //    compile files('libs/ShareSDK-Core-2.7.7.jar')
+    //    compile files('libs/ShareSDK-Email-2.7.7.jar')
+    //    compile files('libs/ShareSDK-Facebook-2.7.7.jar')
+    //    compile files('libs/ShareSDK-QQ-2.7.7.jar')
+    //    compile files('libs/ShareSDK-QZone-2.7.7.jar')
+    //    compile files('libs/ShareSDK-ShortMessage-2.7.7.jar')
+    //    compile files('libs/ShareSDK-SinaWeibo-2.7.7.jar')
+    //    compile files('libs/ShareSDK-TencentWeibo-2.7.7.jar')
+    //    compile files('libs/ShareSDK-Twitter-2.7.7.jar')
+    //    compile files('libs/ShareSDK-Wechat-2.7.7.jar')
+    //    compile files('libs/ShareSDK-Wechat-Core-2.7.7.jar')
+    //    compile files('libs/ShareSDK-Wechat-Favorite-2.7.7.jar')
+    //    compile files('libs/ShareSDK-Wechat-Moments-2.7.7.jar')
+    compile project(':swipelistviewlibrary')
+    compile 'com.yanzhenjie.nohttp:okhttp:1.1.1'
+    compile 'com.tencent.mm.opensdk:wechat-sdk-android-with-mta:+'
+    compile files('libs/open_sdk_r6019_lite.jar')
+}
