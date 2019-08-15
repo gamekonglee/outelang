@@ -59,13 +59,6 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/rs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/shaders" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/test/res" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/test/assets" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/test/aidl" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/test/rs" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/test/shaders" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/androidTest/res" type="java-test-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/androidTest/resources" type="java-test-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/androidTest/assets" type="java-test-resource" />
@@ -73,6 +66,13 @@
       <sourceFolder url="file://$MODULE_DIR$/src/androidTest/java" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/androidTest/rs" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/androidTest/shaders" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/shaders" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/build/generated/not_namespaced_r_class_sources" />
       <excludeFolder url="file://$MODULE_DIR$/build/generated/source/r" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/assets" />
@@ -109,10 +109,9 @@
     </content>
     <orderEntry type="jdk" jdkName="Android API 23 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="Gradle: __local_aars__:/Users/gamekonglee/Downloads/GkleeProject/outelang/app/libs/eventbus-3.0.0.jar:unspecified@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: :picasso-2.5.2.3:@aar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: me.dm7.barcodescanner:zxing:1.9@aar" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: __local_aars__:/Users/gamekonglee/Downloads/outelang/otl 2/qimei/app/libs/MobTools-2016.0830.1940.jar:unspecified@jar" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: __local_aars__:/Users/gamekonglee/Downloads/outelang/otl 2/qimei/app/libs/eventbus-3.0.0.jar:unspecified@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.squareup.okhttp:okhttp:2.5.0@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.squareup.retrofit:adapter-rxjava:2.0.0-beta2@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.android.support:support-v4:23.3.0@aar" level="project" />
@@ -121,7 +120,9 @@
     <orderEntry type="library" exported="" name="Gradle: com.squareup.retrofit:converter-gson:2.0.0-beta2@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: io.reactivex:rxjava:1.1.0@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.yanzhenjie.nohttp:nohttp:1.1.1@aar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_aars__:/Users/gamekonglee/Downloads/GkleeProject/outelang/app/libs/open_sdk_r6019_lite.jar:unspecified@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: me.dm7.barcodescanner:core:1.9@aar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_aars__:/Users/gamekonglee/Downloads/GkleeProject/outelang/app/libs/universal-image-loader-1.9.4.jar:unspecified@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.squareup.okio:okio:1.11.0@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.android.support:support-annotations:23.3.0@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.squareup.retrofit:retrofit:2.0.0-beta2@jar" level="project" />
@@ -130,16 +131,15 @@
     <orderEntry type="library" exported="" name="Gradle: com.squareup.okhttp3:okhttp:3.6.0@jar" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="Gradle: junit:junit:4.12@jar" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="Gradle: org.hamcrest:hamcrest-core:1.3@jar" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: __local_aars__:/Users/gamekonglee/Downloads/outelang/otl 2/qimei/app/libs/MobCommons-2016.0830.1940.jar:unspecified@jar" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: __local_aars__:/Users/gamekonglee/Downloads/outelang/otl 2/qimei/app/libs/open_sdk_r6019_lite.jar:unspecified@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.android.support:appcompat-v7:23.3.0@aar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_aars__:/Users/gamekonglee/Downloads/GkleeProject/outelang/app/libs/MobTools-2016.0830.1940.jar:unspecified@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: io.reactivex:rxandroid:1.1.0@aar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_aars__:/Users/gamekonglee/Downloads/GkleeProject/outelang/app/libs/MobCommons-2016.0830.1940.jar:unspecified@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: :libraryConvenientBanner:@aar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.android.support:recyclerview-v7:23.1.1@aar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.android.support:support-vector-drawable:23.3.0@aar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.squareup.okhttp3:okhttp-urlconnection:3.6.0@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.tencent.mm.opensdk:wechat-sdk-android-with-mta:5.4.0@jar" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: __local_aars__:/Users/gamekonglee/Downloads/outelang/otl 2/qimei/app/libs/universal-image-loader-1.9.4.jar:unspecified@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.alibaba:fastjson:1.2.18@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.android.support:animated-vector-drawable:23.3.0@aar" level="project" />
     <orderEntry type="module" module-name="filter-lib" exported="" />

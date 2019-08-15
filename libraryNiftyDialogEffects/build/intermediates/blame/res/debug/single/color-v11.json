@@ -8,11 +8,19 @@
         "source": "/Users/bocang/Downloads/otl/qimei/libraryNiftyDialogEffects/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     },
     {
+        "merged": "/Users/gamekonglee/Downloads/GkleeProject/outelang/libraryNiftyDialogEffects/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/gamekonglee/Downloads/GkleeProject/outelang/libraryNiftyDialogEffects/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
         "merged": "/Users/gamekonglee/Downloads/outelang/otl 2/qimei/libraryNiftyDialogEffects/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
         "source": "/Users/gamekonglee/Downloads/outelang/otl 2/qimei/libraryNiftyDialogEffects/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     },
     {
         "merged": "/Users/gamekonglee/Downloads/outelang/otl 2/qimei/libraryNiftyDialogEffects/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
         "source": "/Users/gamekonglee/Downloads/outelang/otl 2/qimei/libraryNiftyDialogEffects/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/gamekonglee/Downloads/GkleeProject/outelang/libraryNiftyDialogEffects/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/gamekonglee/Downloads/GkleeProject/outelang/libraryNiftyDialogEffects/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     }
 ]

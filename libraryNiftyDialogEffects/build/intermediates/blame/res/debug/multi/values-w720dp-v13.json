@@ -43,6 +43,49 @@
         ]
     },
     {
+        "outputFile": "/Users/gamekonglee/Downloads/GkleeProject/outelang/libraryNiftyDialogEffects/build/intermediates/res/merged/debug/values-w720dp-v13/values-w720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "/Users/gamekonglee/Downloads/GkleeProject/outelang/libraryNiftyDialogEffects/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-w720dp/values-w720dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 293,
+                        "endColumn": 76,
+                        "endOffset": 365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 132,
+                    "endColumn": 46,
+                    "endOffset": 174
+                },
+                "from": {
+                    "file": "/Users/gamekonglee/Downloads/GkleeProject/outelang/libraryNiftyDialogEffects/src/main/res/values-w720dp/dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 46,
+                        "endOffset": 97
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "/Users/bocang/Downloads/otl/qimei/libraryNiftyDialogEffects/build/intermediates/res/merged/debug/values-w720dp-v13/values-w720dp-v13.xml",
         "map": [
             {

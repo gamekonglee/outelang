@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :libraryConvenientBanner:@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/libraryConvenientBanner/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/libraryConvenientBanner/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

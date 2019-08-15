@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/gamekonglee/Downloads/GkleeProject/outelang/libraryNiftyDialogEffects/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/gamekonglee/Downloads/GkleeProject/outelang/libraryNiftyDialogEffects/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
         "merged": "/Users/bocang/Downloads/otl/qimei/libraryNiftyDialogEffects/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
         "source": "/Users/bocang/Downloads/otl/qimei/libraryNiftyDialogEffects/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/anim/abc_slide_in_top.xml"
     },
@@ -12,6 +16,14 @@
         "source": "/Users/gamekonglee/Downloads/outelang/otl 2/qimei/libraryNiftyDialogEffects/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/anim/abc_slide_in_bottom.xml"
     },
     {
+        "merged": "/Users/gamekonglee/Downloads/GkleeProject/outelang/libraryNiftyDialogEffects/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/gamekonglee/Downloads/GkleeProject/outelang/libraryNiftyDialogEffects/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/gamekonglee/Downloads/GkleeProject/outelang/libraryNiftyDialogEffects/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/gamekonglee/Downloads/GkleeProject/outelang/libraryNiftyDialogEffects/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/anim/abc_popup_exit.xml"
+    },
+    {
         "merged": "/Users/bocang/Downloads/otl/qimei/libraryNiftyDialogEffects/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
         "source": "/Users/bocang/Downloads/otl/qimei/libraryNiftyDialogEffects/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/anim/abc_slide_out_top.xml"
     },
@@ -20,8 +32,16 @@
         "source": "/Users/bocang/Downloads/otl/qimei/libraryNiftyDialogEffects/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/anim/abc_slide_out_bottom.xml"
     },
     {
+        "merged": "/Users/gamekonglee/Downloads/GkleeProject/outelang/libraryNiftyDialogEffects/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/gamekonglee/Downloads/GkleeProject/outelang/libraryNiftyDialogEffects/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/anim/abc_fade_out.xml"
+    },
+    {
         "merged": "/Users/bocang/Downloads/otl/qimei/libraryNiftyDialogEffects/build/intermediates/res/merged/release/anim/rotating.xml",
         "source": "/Users/bocang/Downloads/otl/qimei/libraryNiftyDialogEffects/build/intermediates/exploded-aar/qimei/common/unspecified/res/anim/rotating.xml"
+    },
+    {
+        "merged": "/Users/gamekonglee/Downloads/GkleeProject/outelang/libraryNiftyDialogEffects/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/gamekonglee/Downloads/GkleeProject/outelang/libraryNiftyDialogEffects/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/anim/abc_slide_out_top.xml"
     },
     {
         "merged": "/Users/bocang/Downloads/otl/qimei/libraryNiftyDialogEffects/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
@@ -40,12 +60,20 @@
         "source": "/Users/gamekonglee/Downloads/outelang/otl 2/qimei/libraryNiftyDialogEffects/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/anim/abc_popup_enter.xml"
     },
     {
+        "merged": "/Users/gamekonglee/Downloads/GkleeProject/outelang/libraryNiftyDialogEffects/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/gamekonglee/Downloads/GkleeProject/outelang/libraryNiftyDialogEffects/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
         "merged": "/Users/gamekonglee/Downloads/outelang/otl 2/qimei/libraryNiftyDialogEffects/build/intermediates/res/merged/release/anim/reverse_anim.xml",
         "source": "/Users/gamekonglee/Downloads/outelang/otl 2/qimei/libraryNiftyDialogEffects/build/intermediates/exploded-aar/qimei/common/unspecified/res/anim/reverse_anim.xml"
     },
     {
         "merged": "/Users/gamekonglee/Downloads/outelang/otl 2/qimei/libraryNiftyDialogEffects/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
         "source": "/Users/gamekonglee/Downloads/outelang/otl 2/qimei/libraryNiftyDialogEffects/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/gamekonglee/Downloads/GkleeProject/outelang/libraryNiftyDialogEffects/build/intermediates/res/merged/release/anim/reverse_anim.xml",
+        "source": "/Users/gamekonglee/Downloads/GkleeProject/outelang/libraryNiftyDialogEffects/build/intermediates/exploded-aar/outelang/common/unspecified/res/anim/reverse_anim.xml"
     },
     {
         "merged": "/Users/bocang/Downloads/otl/qimei/libraryNiftyDialogEffects/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
@@ -76,6 +104,10 @@
         "source": "/Users/bocang/Downloads/otl/qimei/libraryNiftyDialogEffects/build/intermediates/exploded-aar/qimei/common/unspecified/res/anim/reverse_anim.xml"
     },
     {
+        "merged": "/Users/gamekonglee/Downloads/GkleeProject/outelang/libraryNiftyDialogEffects/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/gamekonglee/Downloads/GkleeProject/outelang/libraryNiftyDialogEffects/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/anim/abc_slide_in_top.xml"
+    },
+    {
         "merged": "/Users/gamekonglee/Downloads/outelang/otl 2/qimei/libraryNiftyDialogEffects/build/intermediates/res/merged/release/anim/rotating.xml",
         "source": "/Users/gamekonglee/Downloads/outelang/otl 2/qimei/libraryNiftyDialogEffects/build/intermediates/exploded-aar/qimei/common/unspecified/res/anim/rotating.xml"
     },
@@ -88,11 +120,27 @@
         "source": "/Users/gamekonglee/Downloads/outelang/otl 2/qimei/libraryNiftyDialogEffects/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/anim/abc_slide_out_top.xml"
     },
     {
+        "merged": "/Users/gamekonglee/Downloads/GkleeProject/outelang/libraryNiftyDialogEffects/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/gamekonglee/Downloads/GkleeProject/outelang/libraryNiftyDialogEffects/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/gamekonglee/Downloads/GkleeProject/outelang/libraryNiftyDialogEffects/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/gamekonglee/Downloads/GkleeProject/outelang/libraryNiftyDialogEffects/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/gamekonglee/Downloads/GkleeProject/outelang/libraryNiftyDialogEffects/build/intermediates/res/merged/release/anim/rotating.xml",
+        "source": "/Users/gamekonglee/Downloads/GkleeProject/outelang/libraryNiftyDialogEffects/build/intermediates/exploded-aar/outelang/common/unspecified/res/anim/rotating.xml"
+    },
+    {
         "merged": "/Users/gamekonglee/Downloads/outelang/otl 2/qimei/libraryNiftyDialogEffects/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
         "source": "/Users/gamekonglee/Downloads/outelang/otl 2/qimei/libraryNiftyDialogEffects/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/anim/abc_slide_in_top.xml"
     },
     {
         "merged": "/Users/bocang/Downloads/otl/qimei/libraryNiftyDialogEffects/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
         "source": "/Users/bocang/Downloads/otl/qimei/libraryNiftyDialogEffects/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/gamekonglee/Downloads/GkleeProject/outelang/libraryNiftyDialogEffects/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/gamekonglee/Downloads/GkleeProject/outelang/libraryNiftyDialogEffects/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/anim/abc_grow_fade_in_from_bottom.xml"
     }
 ]
